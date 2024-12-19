@@ -10,7 +10,8 @@ bash <(curl -Ls  https://git.zsblog.eu.org/https://raw.githubusercontent.com/you
 
 主面板介绍
 
-![image](https://github.com/user-attachments/assets/54f33785-9cf7-4271-9817-5d6cb9dc4623)
+![image](https://github.com/user-attachments/assets/f88087ff-db65-4570-b9ec-8842879b6b02)
+
 
 ## 2.多账号进程保活脚本：默认nano编辑形式，参数添加完毕运行bash kp.sh即可
 ```
