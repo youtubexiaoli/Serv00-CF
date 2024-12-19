@@ -5,7 +5,7 @@
 
 Serv00专用一键脚本：
 
-bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/serv00_proxyip.sh)
+' bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/Cloudflare_vless_trojan/main/serv00_proxyip.sh) '
 
 主面板介绍
 ![image](https://github.com/user-attachments/assets/54f33785-9cf7-4271-9817-5d6cb9dc4623)
