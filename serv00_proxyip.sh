@@ -517,7 +517,7 @@ cat > list.txt <<EOF
 $vl_link
 
 注意：如果之前输入的reality域名为CF域名，将激活以下功能：
-可应用在 https://github.com/yonggekkk/Cloudflare_vless_trojan 项目中创建CF vless/trojan 节点
+可应用在 https://github.com/youtubexiaoli/Cloudflare_vless_trojan 项目中创建CF vless/trojan 节点
 1、Proxyip(带端口)信息如下：
 方式一全局应用：设置变量名：proxyip    设置变量值：$IP:$vless_port  
 方式二单节点应用：path路径改为：/pyip=$IP:$vless_port
