@@ -5,7 +5,7 @@
 
 Serv00专用一键脚本：
 ```
-bash <(curl -Ls  https://raw.githubusercontent.com/youtubexiaoli/Serv00-CF/refs/heads/main/serv00_proxyip.sh)
+bash <(curl -Ls  https://git.zsblog.eu.org/https://raw.githubusercontent.com/youtubexiaoli/Serv00-CF/refs/heads/main/serv00_proxyip.sh)
 ```
 
 主面板介绍
@@ -14,5 +14,5 @@ bash <(curl -Ls  https://raw.githubusercontent.com/youtubexiaoli/Serv00-CF/refs/
 
 ## 2.多账号进程保活脚本：默认nano编辑形式，参数添加完毕运行bash kp.sh即可
 ```
-curl -sSL https://raw.githubusercontent.com/youtubexiaoli/Serv00-CF/refs/heads/main/kp.sh -o kp.sh && chmod +x kp.sh && nano kp.sh
+curl -sSL https://git.zsblog.eu.org/https://raw.githubusercontent.com/youtubexiaoli/Serv00-CF/refs/heads/main/kp.sh -o kp.sh && chmod +x kp.sh && nano kp.sh
 ```
