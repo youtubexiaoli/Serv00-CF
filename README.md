@@ -1,5 +1,5 @@
 # Serv00-CF代码
-## 1.修改自Serv00|ct8老王与yonggekkk安装脚本，支持一键三协议：vless-reality、vmess-ws(argo)、hysteria2。
+## 1.修改自Serv00|ct8老王与yonggekkk勇哥安装脚本，支持一键三协议：vless-reality、vmess-ws(argo)、hysteria2。
 
 主要增加reality协议默认支持 CF vless/trojan 节点的proxyip以及非标端口的优选反代IP功能
 
